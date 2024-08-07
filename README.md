@@ -24,7 +24,8 @@ A complete app requires great reflection, research, planning, designing, coding,
 
 ### About
 
-- 🔭 I’m currently working on an Android app calld Quizeo.
+- 🔭 I’m currently looking for a job as an Android developer.
+- ⚒️ I'm currently working on a personal project. An app called Quizeo.
 - 🌱 I’m currently learning Jetpack Compose.
 <!--
 **StebaneJhon/StebaneJhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
