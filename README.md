@@ -19,8 +19,6 @@ A complete app requires great reflection, research, planning, designing, coding,
 [<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />][webdevplaylist]
 
-#
-
 ### What's going on:
 
 - 🔭 I’m currently working on an Android app calld Quizeo.
