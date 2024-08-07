@@ -14,6 +14,7 @@ A complete app requires great reflection, research, planning, designing, coding,
 <img align="left" alt="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="XML" width="30px" src="https://img.icons8.com/?size=100&id=blGkYcWG4gBk&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="Jetpack-Compose" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
