@@ -3,7 +3,7 @@
 **`Software Craftsman (Android Developer)`**
 
 I’m an Android developer who enjoys creating and learning. 
-I like to code prototypes because that’s where all app development should start, where the focus is on pure functionality. 
+I like to code prototypes because that’s where all app development should start, when the focus is on pure functionality. 
 A complete app requires great reflection, research, planning, designing, coding, debugging and everything in between. That is the process I follow.
 
 ---
